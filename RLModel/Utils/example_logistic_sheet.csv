@@ -1,0 +1,7 @@
+product;original_stock;current_stock;expiry_date;price;price_quantity;unit
+fish;100;57;10-Oct-2022;509;250;gram
+meat;300;122;6-Oct-2022;379;300;gram
+milk;1000;392;2-Nov-2022;109;1000;liter
+tomato;100;26;5-Oct-2022;109;1000;gram
+carrot;600;109;12-Oct-2022;229;1000;gram
+champignon;700;127;15-Oct-2022;179;400;gram
